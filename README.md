@@ -53,6 +53,19 @@ There's no overlap between top 10 customers by number of orders and by number of
 
 ![obraz](https://github.com/user-attachments/assets/336ad44c-e3cc-4f3a-8d7c-2b2354e6cc1a)
 
+Sean Miller and Tamara Chand, both made only 5 orders, with 2.5 months between them on average.
+
+![obraz](https://github.com/user-attachments/assets/77e4c523-fad3-4163-a995-e59fb322795f)
+
+Orders of the most profitable customers contain only few items, but expensive items.
+
+![obraz](https://github.com/user-attachments/assets/21196ca9-cf8e-4136-93ec-49b0c0102632)
+
+The most common items ordered by them are copiers and machines. This is in contrast with the most profitable categories overall, which were phones and chairs.
+
+![obraz](https://github.com/user-attachments/assets/c8a90836-3e4c-48d1-bc12-80bb9aa0ff1b)
+
+
 Most customers create less than 15 orders, and majority of the sales comes from them.
 
 ![obraz](https://github.com/user-attachments/assets/7f3aa47e-2724-40ad-8f33-35d28dd1296d)
